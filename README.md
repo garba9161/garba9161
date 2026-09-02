@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Ahmed Garba! <br/><a href="https://www.linkedin.com/in/ahmed-garba/">Cybersecurity Professional</a>,</h1>
+
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+
+<h2> Certiifications</h2>
+
+[linkedin]: https://linkedin.com/in/ahmed-garba
 
 <!--
-**garba9161/garba9161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
